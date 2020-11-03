@@ -8,5 +8,5 @@
 
 **Link(s) to work**
 1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-2. [Notion] (https://www.notion.so/)
+2. [Notion](https://www.notion.so/)
 
