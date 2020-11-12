@@ -10,14 +10,24 @@
 1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 2. [Notion](https://www.notion.so/)
 
-### Day 2: Monday November 10, 2020
+### Day 2: Tuesday November 10, 2020
 
 **Today's Progress**: I've completed section 1 of (WDBC) and done a few sections on section 2 which covers html. Also, added some useful plugins for VSCode. Found a really useful tool/website for documentation called DevDocs.io . I also review my codebase for my customer support application, mainly the backend.
 
 **Thoughts** I could do more!
 
 **Link(s)**
-1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-2. [Notion](https://www.notion.so/)
-3. [VSCode](https://code.visualstudio.com/)
-4. [WDBC](https://github.com/mcaiox/WDBC)
+1. [Notion](https://www.notion.so/)
+2. [VSCode](https://code.visualstudio.com/)
+3. [WDBC](https://github.com/mcaiox/WDBC)
+
+### Day 3: Wednesday November 11, 2020
+
+**Today's Progress**: I began working on requirements for my Customer Support Application. I then worked on a Todo Web Api[3] which is linked below to better my understanding of ASP.NET Core. Additionally, I worked through section 2 of WDBC and my work can be seen below [2]
+
+**Thoughts** The Microsoft Documentation for ASP.Net Core is pretty detailed and I want to go over everything someday!
+
+**Link(s)**
+1. [Notion](https://www.notion.so/)
+2. [WDBC](https://github.com/mcaiox/WDBC)
+3. [TodoAPI](https://github.com/mcaiox/TodoAPI)
