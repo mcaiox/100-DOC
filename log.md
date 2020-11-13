@@ -31,3 +31,11 @@
 1. [Notion](https://www.notion.so/)
 2. [WDBC](https://github.com/mcaiox/WDBC)
 3. [TodoAPI](https://github.com/mcaiox/TodoAPI)
+
+### Day 4: Thursday November 12, 2020
+
+**Today's Progress**: I worked on learning more C# and used the official documentation/guides. In addition to this, I did some Interview Prep.
+
+**Thoughts** Should do more work!
+
+**Link(s)**
