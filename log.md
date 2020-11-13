@@ -39,3 +39,5 @@
 **Thoughts** Should do more work!
 
 **Link(s)**
+1. [Notion](https://www.notion.so/)
+2. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
