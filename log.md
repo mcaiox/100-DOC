@@ -41,3 +41,11 @@
 **Link(s)**
 1. [Notion](https://www.notion.so/)
 2. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+### Day 5: Friday November 13, 2020
+
+**Today's Progress**: I applied for two jobs and attended an Job Interview.
+
+**Thoughts** Could/Should do more, but we keep going!
+
+
