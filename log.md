@@ -48,4 +48,11 @@
 
 **Thoughts** Could/Should do more, but we keep going!
 
+### Day 6: Saturday November 14, 2020
 
+**Today's Progress**: I worked on learning more C# and used the official documentation/guides to go through string searching, branching, Arrays, Lists and Collections 
+
+**Thoughts** Should do more work and fix sleeping schedule.
+
+**Link(s)**
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
