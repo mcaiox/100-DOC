@@ -56,3 +56,13 @@
 
 **Link(s)**
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+### Day 7: Sunday November 15, 2020
+
+**Today's Progress**: I worked on learning more C# and used the official documentation/guides to go through Classes and objects, Type parameters, Structs, Tuples, Interfaces, Enums and Nullable Types. I also work on my Todoapi ASP.NET CORE Web API project. I also migrated two of my projects in ASP.NET CORE from 3.1 to 5.0
+
+**Thoughts** Did a lot of work in the early hours of the morning, good to keep this schedule of sleeping early and waking up early.
+
+**Link(s)**
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+2. [TodoAPI](https://github.com/mcaiox/TodoAPI)
