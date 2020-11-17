@@ -66,3 +66,21 @@
 **Link(s)**
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [TodoAPI](https://github.com/mcaiox/TodoAPI)
+
+### Day 8: Monday November 16, 2020
+
+**Today's Progress**: I worked on learning more C# and used the official documentation/guides to go through Members, Accesibility, Fields, Methods, Other function members, Expressions and statements. I also work on my Todoapi ASP.NET CORE Web API project. I also applied for another developer role.
+
+**Thoughts** Gotta keep this going! A week done!
+
+**Link(s)**
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+2. [TodoAPI](https://github.com/mcaiox/TodoAPI)
+
+### Day 10: Tuesday November 17, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s)**
