@@ -77,7 +77,7 @@
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [TodoAPI](https://github.com/mcaiox/TodoAPI)
 
-### Day 10: Tuesday November 17, 2020
+### Day 9: Tuesday November 17, 2020
 
 **Today's Progress**: 
 
