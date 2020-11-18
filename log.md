@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+
 ### Day 1: Monday November 9, 2020
 
 **Today's Progress**: I've setup a Notion system for the 100 days of code and completed seven sections of Section 1 - Front-End Web Development from the course on Udemy : The Complete 2020 Web Development Bootcamp (WDBC). I used a cornell note taking system on Notion to make notes. Topics covered include - Syllabus, How to get the most out of this course, 12 rules to learn to code eBook, How the internet works, how websites actually work and setting up machine for web development.
@@ -9,6 +10,7 @@
 **Link(s)**
 1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 2. [Notion](https://www.notion.so/)
+
 
 ### Day 2: Tuesday November 10, 2020
 
@@ -21,6 +23,7 @@
 2. [VSCode](https://code.visualstudio.com/)
 3. [WDBC](https://github.com/mcaiox/WDBC)
 
+
 ### Day 3: Wednesday November 11, 2020
 
 **Today's Progress**: I began working on requirements for my Customer Support Application. I then worked on a Todo Web Api[3] which is linked below to better my understanding of ASP.NET Core. Additionally, I worked through section 2 of WDBC and my work can be seen below [2]
@@ -32,6 +35,7 @@
 2. [WDBC](https://github.com/mcaiox/WDBC)
 3. [TodoAPI](https://github.com/mcaiox/TodoAPI)
 
+
 ### Day 4: Thursday November 12, 2020
 
 **Today's Progress**: I worked on learning more C# and used the official documentation/guides. In addition to this, I did some Interview Prep.
@@ -42,11 +46,13 @@
 1. [Notion](https://www.notion.so/)
 2. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
+
 ### Day 5: Friday November 13, 2020
 
 **Today's Progress**: I applied for two jobs and attended an Job Interview.
 
 **Thoughts** Could/Should do more, but we keep going!
+
 
 ### Day 6: Saturday November 14, 2020
 
@@ -56,6 +62,7 @@
 
 **Link(s)**
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
 
 ### Day 7: Sunday November 15, 2020
 
@@ -67,6 +74,7 @@
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [TodoAPI](https://github.com/mcaiox/TodoAPI)
 
+
 ### Day 8: Monday November 16, 2020
 
 **Today's Progress**: I worked on learning more C# and used the official documentation/guides to go through Members, Accesibility, Fields, Methods, Other function members, Expressions and statements. I also work on my Todoapi ASP.NET CORE Web API project. I also applied for another developer role.
@@ -77,10 +85,24 @@
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [TodoAPI](https://github.com/mcaiox/TodoAPI)
 
+
 ### Day 9: Tuesday November 17, 2020
+
+**Today's Progress**: Did some more learning with C#, covered Major Language Areas section which involved Arrays, Collections and LINQ, String interpolation, Pattern matching, delegates and lambda expressions, async/await and Attributes. I also worked on The Complete 2020 Web Development Bootcamp (WDBC), went over the Anatomy of HTML, Personal Site Plan and the HTML Boilerplate.
+
+**Thoughts** I really enjoy working through WDBC.
+
+**Link(s)**
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+2. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+
+### Day 10: Wednesday November 18, 2020
 
 **Today's Progress**: 
 
 **Thoughts** 
 
 **Link(s)**
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+2. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
