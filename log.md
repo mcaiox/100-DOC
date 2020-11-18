@@ -99,10 +99,10 @@
 
 ### Day 10: Wednesday November 18, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Did some more learning with C# -> Numbers, Decimals, Branches and Loops, List Collections. Worked on React Frontend for Customer Support Application and added a Log In screen from Material UI. 
 
 **Thoughts** 
 
 **Link(s)**
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-2. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+2. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
