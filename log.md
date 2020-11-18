@@ -101,7 +101,7 @@
 
 **Today's Progress**: Did some more learning with C# -> Numbers, Decimals, Branches and Loops, List Collections. Worked on React Frontend for Customer Support Application and added a Log In screen from Material UI. 
 
-**Thoughts** 
+**Thoughts** Made some suprising progress on React! 
 
 **Link(s)**
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
