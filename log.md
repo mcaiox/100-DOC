@@ -53,6 +53,9 @@
 
 **Thoughts** Could/Should do more, but we keep going!
 
+**Link(s)**
+1. [Notion](https://www.notion.so/)
+
 
 ### Day 6: Saturday November 14, 2020
 
