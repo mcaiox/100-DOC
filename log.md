@@ -106,3 +106,23 @@
 **Link(s)**
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
+
+
+### Day 11: Thursday November 19, 2020
+
+**Today's Progress**: Worked on React Frontend for Customer Support Application and added a Log In screen from Material UI and also upgraded React Router to be styled with CSS. Upgraded Applications workflow.
+
+**Thoughts** Made some more progress on React! 
+
+**Link(s)**
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+2. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
+
+### Day 12: Friday November 20, 2020
+
+**Today's Progress**:
+
+**Thoughts** 
+
+**Link(s)**
+
