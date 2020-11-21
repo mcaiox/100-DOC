@@ -123,9 +123,19 @@
 
 ### Day 12: Friday November 20, 2020
 
-**Today's Progress**:
+**Today's Progress**: Did some more work on the Web Developer Bootcamp course and applied for a job.
+
+**Thoughts** Need to learn Vue.js and Node.js soon.
+
+**Link(s)** 
+1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+
+### Day 13: Saturday November 21, 2020
+
+**Today's Progress**: D
 
 **Thoughts** 
 
-**Link(s)**
-
+**Link(s)** 
+1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
