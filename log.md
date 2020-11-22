@@ -133,9 +133,21 @@
 
 ### Day 13: Saturday November 21, 2020
 
-**Today's Progress**: D
+**Today's Progress**: Did significant amount of work on the Customer Support Application. Made some changes to the frontend and added a new api for the backend and added messages feature as well as changing the status.
 
-**Thoughts** 
+**Thoughts** I really enjoyed coding today and I did hell of a lot of it!
 
 **Link(s)** 
-1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
+
+
+### Day 14: Sunday November 21, 2020
+
+**Today's Progress**:
+
+**Thoughts**
+
+**Link(s)** 
+
+
+
