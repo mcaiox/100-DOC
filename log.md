@@ -141,11 +141,20 @@
 1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
 
 
-### Day 14: Sunday November 21, 2020
+### Day 14: Sunday November 22, 2020
 
-**Today's Progress**:
+**Today's Progress**: Worked on debugging the Customer Support Application in react as well as doing a round of testing and usability evaluation and further requirements capture.
 
-**Thoughts**
+**Thoughts** A long day of work!
+
+**Link(s)** 
+1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
+
+### Day 15: Mondauy November 23, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
 
 **Link(s)** 
 
