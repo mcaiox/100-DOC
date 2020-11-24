@@ -150,13 +150,24 @@
 **Link(s)** 
 1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
 
-### Day 15: Mondauy November 23, 2020
+### Day 15: Monday November 23, 2020
+
+**Today's Progress**: Complete another section of the Web Developer Bootcamp course.
+
+**Thoughts** devdocs.io is an amazing resource!
+
+**Link(s)** 
+1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+### Day 15: Tuesday November 24, 2020
 
 **Today's Progress**: 
 
 **Thoughts** 
 
 **Link(s)** 
+1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
 
 
 
