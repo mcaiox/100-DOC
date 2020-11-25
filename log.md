@@ -161,12 +161,12 @@
 
 ### Day 15: Tuesday November 24, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Mainly worked on hardware issues with my PC build and Audio driver issues. Did some reading on C#
 
-**Thoughts** 
+**Thoughts**: Could do more, but was a great learning experience solving hardware and driver issues on my PC Build.
 
 **Link(s)** 
-1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 
 
