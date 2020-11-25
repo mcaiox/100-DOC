@@ -159,7 +159,7 @@
 **Link(s)** 
 1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
-### Day 15: Tuesday November 24, 2020
+### Day 16: Tuesday November 24, 2020
 
 **Today's Progress**: Mainly worked on hardware issues with my PC build and Audio driver issues. Did some reading on C#
 
@@ -169,5 +169,12 @@
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 
+### Day 17: Wednesday November 25, 2020
 
+**Today's Progress**: Mainly worked on the Customer Support Application. Did some more validation on the backend and worked on sending HTTP Response codes back to the Front End to handle following a POST.
+
+**Thoughts**: There are so many features I would like to add to this application to aid my learning process.
+
+**Link(s)** 
+1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
 
