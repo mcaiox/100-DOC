@@ -183,8 +183,8 @@
 
 ### Day 18: Thursday November 26, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Primarily worked on Terminal configurations, also worked on React and the Customer Support Application
 
-**Thoughts**: 
-
+**Thoughts**: WSL1 > WSL2 (for now)
 **Link(s)** 
+1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
