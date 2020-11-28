@@ -203,8 +203,9 @@
 
 ### Day 20: Saturday November 28, 2020
 
-**Today's Progress**:
+**Today's Progress**: I worked through the Web Development Bootcamp and applied for a job.
 
-**Thoughts**:
+**Thoughts**: Interesting to use DevDocs for CSS.
 
 **Link(s)**
+1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
