@@ -1,6 +1,5 @@
 # 100 Days Of Code - Log
 
-
 ### Day 1: Monday November 9, 2020
 
 **Today's Progress**: I've setup a Notion system for the 100 days of code and completed seven sections of Section 1 - Front-End Web Development from the course on Udemy : The Complete 2020 Web Development Bootcamp (WDBC). I used a cornell note taking system on Notion to make notes. Topics covered include - Syllabus, How to get the most out of this course, 12 rules to learn to code eBook, How the internet works, how websites actually work and setting up machine for web development.
@@ -8,9 +7,9 @@
 **Thoughts** I've started this challenge after quite some time, so I believe the amount of work will increase as I become more accustomed to working daily.
 
 **Link(s)**
+
 1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 2. [Notion](https://www.notion.so/)
-
 
 ### Day 2: Tuesday November 10, 2020
 
@@ -19,10 +18,10 @@
 **Thoughts** I could do more!
 
 **Link(s)**
+
 1. [Notion](https://www.notion.so/)
 2. [VSCode](https://code.visualstudio.com/)
 3. [WDBC](https://github.com/mcaiox/WDBC)
-
 
 ### Day 3: Wednesday November 11, 2020
 
@@ -31,10 +30,10 @@
 **Thoughts** The Microsoft Documentation for ASP.Net Core is pretty detailed and I want to go over everything someday!
 
 **Link(s)**
+
 1. [Notion](https://www.notion.so/)
 2. [WDBC](https://github.com/mcaiox/WDBC)
 3. [TodoAPI](https://github.com/mcaiox/TodoAPI)
-
 
 ### Day 4: Thursday November 12, 2020
 
@@ -43,9 +42,9 @@
 **Thoughts** Should do more work!
 
 **Link(s)**
+
 1. [Notion](https://www.notion.so/)
 2. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-
 
 ### Day 5: Friday November 13, 2020
 
@@ -54,18 +53,18 @@
 **Thoughts** Could/Should do more, but we keep going!
 
 **Link(s)**
-1. [Notion](https://www.notion.so/)
 
+1. [Notion](https://www.notion.so/)
 
 ### Day 6: Saturday November 14, 2020
 
-**Today's Progress**: I worked on learning more C# and used the official documentation/guides to go through string searching, branching, Arrays, Lists and Collections 
+**Today's Progress**: I worked on learning more C# and used the official documentation/guides to go through string searching, branching, Arrays, Lists and Collections
 
 **Thoughts** Should do more work and fix sleeping schedule.
 
 **Link(s)**
-1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 ### Day 7: Sunday November 15, 2020
 
@@ -74,9 +73,9 @@
 **Thoughts** Did a lot of work in the early hours of the morning, good to keep this schedule of sleeping early and waking up early.
 
 **Link(s)**
+
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [TodoAPI](https://github.com/mcaiox/TodoAPI)
-
 
 ### Day 8: Monday November 16, 2020
 
@@ -85,9 +84,9 @@
 **Thoughts** Gotta keep this going! A week done!
 
 **Link(s)**
+
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [TodoAPI](https://github.com/mcaiox/TodoAPI)
-
 
 ### Day 9: Tuesday November 17, 2020
 
@@ -96,28 +95,29 @@
 **Thoughts** I really enjoy working through WDBC.
 
 **Link(s)**
+
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
-
 ### Day 10: Wednesday November 18, 2020
 
-**Today's Progress**: Did some more learning with C# -> Numbers, Decimals, Branches and Loops, List Collections. Worked on React Frontend for Customer Support Application and added a Log In screen from Material UI. 
+**Today's Progress**: Did some more learning with C# -> Numbers, Decimals, Branches and Loops, List Collections. Worked on React Frontend for Customer Support Application and added a Log In screen from Material UI.
 
-**Thoughts** Made some suprising progress on React! 
+**Thoughts** Made some suprising progress on React!
 
 **Link(s)**
+
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
-
 
 ### Day 11: Thursday November 19, 2020
 
 **Today's Progress**: Worked on React Frontend for Customer Support Application and added a Log In screen from Material UI and also upgraded React Router to be styled with CSS. Upgraded Applications workflow.
 
-**Thoughts** Made some more progress on React! 
+**Thoughts** Made some more progress on React!
 
 **Link(s)**
+
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
 
@@ -127,9 +127,9 @@
 
 **Thoughts** Need to learn Vue.js and Node.js soon.
 
-**Link(s)** 
-1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+**Link(s)**
 
+1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ### Day 13: Saturday November 21, 2020
 
@@ -137,9 +137,9 @@
 
 **Thoughts** I really enjoyed coding today and I did hell of a lot of it!
 
-**Link(s)** 
-1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
+**Link(s)**
 
+1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
 
 ### Day 14: Sunday November 22, 2020
 
@@ -147,9 +147,9 @@
 
 **Thoughts** A long day of work!
 
-**Link(s)** 
-1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
+**Link(s)**
 
+1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
 
 ### Day 15: Monday November 23, 2020
 
@@ -157,9 +157,9 @@
 
 **Thoughts** devdocs.io is an amazing resource!
 
-**Link(s)** 
-1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+**Link(s)**
 
+1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ### Day 16: Tuesday November 24, 2020
 
@@ -167,9 +167,9 @@
 
 **Thoughts**: Could do more, but was a great learning experience solving hardware and driver issues on my PC Build.
 
-**Link(s)** 
-1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+**Link(s)**
 
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 ### Day 17: Wednesday November 25, 2020
 
@@ -177,14 +177,26 @@
 
 **Thoughts**: There are so many features I would like to add to this application to aid my learning process.
 
-**Link(s)** 
-1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
+**Link(s)**
 
+1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
 
 ### Day 18: Thursday November 26, 2020
 
 **Today's Progress**: Primarily worked on Terminal configurations, also worked on React and the Customer Support Application
 
 **Thoughts**: WSL1 > WSL2 (for now)
-**Link(s)** 
+
+**Link(s)**
+
 1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
+
+### Day 19: Friday November 27, 2020
+
+**Today's Progress**: Primarily worked on another React Course with FCC.
+
+**Thoughts**: Interesting to learn about the roots of React.
+
+**Link(s)**
+
+1. [REACT-FCC](https://github.com/mcaiox/REACT-FCC)
