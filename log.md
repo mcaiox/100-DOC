@@ -209,3 +209,14 @@
 
 **Link(s)**
 1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+### Day 21: Sunday November 29, 2020
+
+**Today's Progress**: I worked through the Web Development Bootcamp and completed section 2.
+
+**Thoughts**: I am starting to see the benefits of continously working on my craft and how over time that can amount to something of substance.
+
+**Link(s)**
+1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+
