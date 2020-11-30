@@ -220,3 +220,12 @@
 1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 
+### Day 22: Monday November 30, 2020
+
+**Today's Progress**: I worked through some Interview Questions, did some work on Await/Async and a on the TodoAPI.
+
+**Thoughts**: I enjoyed working on the Interview Questions.
+
+**Link(s)**
+1. [TodoAPI](https://github.com/mcaiox/TodoAPI)
+2. [Interview-Questions](https://github.com/mcaiox/Interview-Questions)
