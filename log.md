@@ -208,6 +208,7 @@
 **Thoughts**: Interesting to use DevDocs for CSS.
 
 **Link(s)**
+
 1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ### Day 21: Sunday November 29, 2020
@@ -217,8 +218,8 @@
 **Thoughts**: I am starting to see the benefits of continously working on my craft and how over time that can amount to something of substance.
 
 **Link(s)**
-1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
+1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 ### Day 22: Monday November 30, 2020
 
@@ -227,15 +228,18 @@
 **Thoughts**: I enjoyed working on the Interview Questions.
 
 **Link(s)**
+
 1. [TodoAPI](https://github.com/mcaiox/TodoAPI)
 2. [Interview-Questions](https://github.com/mcaiox/Interview-Questions)
 
 ### Day 23: Tuesday December 1, 2020
 
-**Today's Progress**: I worked through some Interview Questions, did some work on Await/Async and a on the TodoAPI.
+**Today's Progress**: I did an assesment for a job application, I also worked through some Coding Interview Questions such as isUnique in CPP and Finding the first non repeating element. I also worked through the web development bootcamp.
 
-**Thoughts**: I enjoyed working on the Interview Questions.
+**Thoughts**: Fairly productive, and it was interesting to solve some of the coding interview questions twice - once in C# and once in C++ with a basic solution and an optimised solution.
 
 **Link(s)**
-1. [TodoAPI](https://github.com/mcaiox/TodoAPI)
-2. [Interview-Questions](https://github.com/mcaiox/Interview-Questions)
+
+1. [Interview-Questions](https://github.com/mcaiox/Interview-Questions)
+2. [CTCI](https://github.com/mcaiox/CTCI)
+3. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
