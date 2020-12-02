@@ -243,3 +243,12 @@
 1. [Interview-Questions](https://github.com/mcaiox/Interview-Questions)
 2. [CTCI](https://github.com/mcaiox/CTCI)
 3. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+### Day 24: Wednesday December 2, 2020
+
+**Today's Progress**: I worked on Web Developer Bootcamp, section 3.
+
+**Thoughts**: Could be more productive, and more focused mode of work. Found a cool [extension](https://daily.dev/) to use on my browser.
+
+**Link(s)**
+1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
