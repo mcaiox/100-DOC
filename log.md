@@ -251,4 +251,15 @@
 **Thoughts**: Could be more productive, and more focused mode of work. Found a cool [extension](https://daily.dev/) to use on my browser.
 
 **Link(s)**
+
+1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
+
+### Day 25: Thursday December 3, 2020
+
+**Today's Progress**: I worked on Web Developer Bootcamp, section 3 as well as doing a coding interview.
+
+**Thoughts**: The validation with input types in html was pretty cool. Coding interview was tough but I had a nice chat with the interviewer and good feedback in terms of where I can improve.
+
+**Link(s)**
+
 1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
