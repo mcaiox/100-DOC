@@ -263,3 +263,13 @@
 **Link(s)**
 
 1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
+
+### Day 26: Friday December 4, 2020
+
+**Today's Progress**: I worked some more on Web Developer Bootcamp
+
+**Thoughts**: Had some issues with deployment on Github, need to figure out how to deploy when the index.html file in in a subdirectory.
+
+**Link(s)**
+
+1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
