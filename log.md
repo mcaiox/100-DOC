@@ -273,3 +273,13 @@
 **Link(s)**
 
 1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
+
+### Day 27: Saturday December 5, 2020
+
+**Today's Progress**: I worked some more on Web Developer Bootcamp
+
+**Thoughts**: 
+
+**Link(s)**
+
+1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
