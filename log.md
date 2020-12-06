@@ -283,3 +283,15 @@
 **Link(s)**
 
 1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
+
+
+### Day 28: Sunday December 6, 2020
+
+**Today's Progress**: I worked some more on Web Developer Bootcamp and the Customer Support Application.
+
+**Thoughts**: Having a git repository within another git repository is always fun..
+
+**Link(s)**
+
+1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
+2. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
