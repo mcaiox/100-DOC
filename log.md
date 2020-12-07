@@ -295,3 +295,14 @@
 
 1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
 2. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
+
+### Day 29: Monday December 7, 2020
+
+**Today's Progress**: I worked some more on the Customer Support Application as well as Free Code Camp's React course.
+
+**Thoughts**: Seeing how you could return html using react.CreatElement() instead of the typical html styled return was interesting and helped me understand why the latter is better to use for readability and simplicity.
+
+**Link(s)**
+
+1. [REACT-FCC](https://github.com/mcaiox/REACT-FCC)
+2. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
