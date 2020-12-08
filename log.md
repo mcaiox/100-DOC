@@ -306,3 +306,13 @@
 
 1. [REACT-FCC](https://github.com/mcaiox/REACT-FCC)
 2. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
+
+### Day 30: Tuesday December 8, 2020
+
+**Today's Progress**: I worked on some C# and some OOP.
+
+**Thoughts**: Interesting to see the differences in OOP with C# in comparison to C++
+
+**Link(s)**
+
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
