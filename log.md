@@ -273,3 +273,46 @@
 **Link(s)**
 
 1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
+
+### Day 27: Saturday December 5, 2020
+
+**Today's Progress**: I worked some more on Web Developer Bootcamp
+
+**Thoughts**: 
+
+**Link(s)**
+
+1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
+
+
+### Day 28: Sunday December 6, 2020
+
+**Today's Progress**: I worked some more on Web Developer Bootcamp and the Customer Support Application.
+
+**Thoughts**: Having a git repository within another git repository is always fun..
+
+**Link(s)**
+
+1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
+2. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
+
+### Day 29: Monday December 7, 2020
+
+**Today's Progress**: I worked some more on the Customer Support Application as well as Free Code Camp's React course.
+
+**Thoughts**: Seeing how you could return html using react.CreatElement() instead of the typical html styled return was interesting and helped me understand why the latter is better to use for readability and simplicity.
+
+**Link(s)**
+
+1. [REACT-FCC](https://github.com/mcaiox/REACT-FCC)
+2. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
+
+### Day 30: Tuesday December 8, 2020
+
+**Today's Progress**: I worked on some C# and some OOP.
+
+**Thoughts**: Interesting to see the differences in OOP with C# in comparison to C++
+
+**Link(s)**
+
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
