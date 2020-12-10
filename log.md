@@ -316,3 +316,13 @@
 **Link(s)**
 
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+### Day 31: Wednesday December 9, 2020
+
+**Today's Progress**: I worked on some C# and some OOP.
+
+**Thoughts**: The decimal type in C# was interesting and having to use the new operator to initialise STL List in C# compared to C++.
+
+**Link(s)**
+
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
