@@ -330,7 +330,18 @@
 
 **Today's Progress**: I worked on classes in C# - implementing a BankAccount class.
 
-**Thoughts**: I find the get and set methods for properties within a class pretty useful in C# compared to C++ where you have to manually create getter and seeter methods for each significant variable within the class.
+**Thoughts**: I find the get and set methods for properties within a class pretty useful in C# compared to C++ where you have to manually create getter and setter methods for each significant variable within the class.
+
+**Link(s)**
+
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+2. [BankAccount](https://github.com/mcaiox/csharp-projects/tree/main/BankAccounts)
+
+### Day 33: Thursday December 10, 2020
+
+**Today's Progress**: I continued on classes in C# - implementing a BankAccount class.
+
+**Thoughts**: Growing to like C# more and more. Also learnt about the importance of post mortems from this [article](https://www.freecodecamp.org/news/what-is-a-software-post-mortem/)
 
 **Link(s)**
 
