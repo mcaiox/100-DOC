@@ -278,12 +278,11 @@
 
 **Today's Progress**: I worked some more on Web Developer Bootcamp
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s)**
 
 1. [The Complete 2020 Web Development Bootcamp](https://github.com/mcaiox/WDBC)
-
 
 ### Day 28: Sunday December 6, 2020
 
@@ -326,3 +325,14 @@
 **Link(s)**
 
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+### Day 32: Thursday December 10, 2020
+
+**Today's Progress**: I worked on classes in C# - implementing a BankAccount class.
+
+**Thoughts**: I find the get and set methods for properties within a class pretty useful in C# compared to C++ where you have to manually create getter and seeter methods for each significant variable within the class.
+
+**Link(s)**
+
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+2. [BankAccount](https://github.com/mcaiox/csharp-projects/tree/main/BankAccounts)
