@@ -337,11 +337,22 @@
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [BankAccount](https://github.com/mcaiox/csharp-projects/tree/main/BankAccounts)
 
-### Day 33: Thursday December 10, 2020
+### Day 33: Friday December 11, 2020
 
 **Today's Progress**: I continued on classes in C# - implementing a BankAccount class.
 
 **Thoughts**: Growing to like C# more and more. Also learnt about the importance of post mortems from this [article](https://www.freecodecamp.org/news/what-is-a-software-post-mortem/)
+
+**Link(s)**
+
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+2. [BankAccount](https://github.com/mcaiox/csharp-projects/tree/main/BankAccounts)
+
+### Day 34: Saturday December 12, 2020
+
+**Today's Progress**: I continued on classes in C#.
+
+**Thoughts**: The DateTime type which represents an instant in time, typically expressed as a date and time of day is useful in this context with respects to tracking time of transactions in the Bank Account class.
 
 **Link(s)**
 
