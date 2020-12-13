@@ -358,3 +358,14 @@
 
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [BankAccount](https://github.com/mcaiox/csharp-projects/tree/main/BankAccounts)
+
+
+### Day 34: Sunday December 13, 2020
+
+**Today's Progress**: I continued on classes in C#.
+
+**Thoughts**: 
+**Link(s)**
+
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+2. [BankAccount](https://github.com/mcaiox/csharp-projects/tree/main/BankAccounts)
