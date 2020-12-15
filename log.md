@@ -380,3 +380,13 @@
 
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [BankAccount](https://github.com/mcaiox/csharp-projects/tree/main/BankAccounts)
+
+### Day 37: Tuesday December 15, 2020
+
+**Today's Progress**: I worked on the Customer Support Application.
+
+**Thoughts**: Had issues dealing with Visual Studio Code for the M1 MBP.
+
+**Link(s)**
+
+1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
