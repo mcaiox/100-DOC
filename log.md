@@ -2,7 +2,7 @@
 
 ### Day 1: Monday November 9, 2020
 
-**Today's Progress**: I've setup a Notion system for the 100 days of code and completed seven sections of Section 1 - Front-End Web Development from the course on Udemy : The Complete 2020 Web Development Bootcamp (WDBC). I used a cornell note taking system on Notion to make notes. Topics covered include - Syllabus, How to get the most out of this course, 12 rules to learn to code eBook, How the internet works, how websites actually work and setting up machine for web development.
+**Today's Progress**: I have setup a Notion system for the 100 days of code and completed seven sections of Section 1 - Front-End Web Development from the course on Udemy : The Complete 2020 Web Development Bootcamp (WDBC). I used a cornell note taking system on Notion to make notes. Topics covered include - Syllabus, How to get the most out of this course, 12 rules to learn to code eBook, How the internet works, how websites actually work and setting up machine for web development.
 
 **Thoughts** I've started this challenge after quite some time, so I believe the amount of work will increase as I become more accustomed to working daily
 
