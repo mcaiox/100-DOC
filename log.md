@@ -359,12 +359,22 @@
 1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 2. [BankAccount](https://github.com/mcaiox/csharp-projects/tree/main/BankAccounts)
 
-
 ### Day 35: Sunday December 13, 2020
 
 **Today's Progress**: I continued on classes in C# as well as working on setting up Terminal using Rosetta 2 for the MBP M1.
 
 **Thoughts**: I would like to learn the command line properly, and fluently. The prop shortcut on visual studio is pretty useful.
+
+**Link(s)**
+
+1. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+2. [BankAccount](https://github.com/mcaiox/csharp-projects/tree/main/BankAccounts)
+
+### Day 36: Monday December 14, 2020
+
+**Today's Progress**: I continued on classes in C#.
+
+**Thoughts**: Interesting to use the throw keyword to handle an exception manually.
 
 **Link(s)**
 
