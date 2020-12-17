@@ -390,3 +390,13 @@
 **Link(s)**
 
 1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
+
+### Day 38: Wednesday December 16, 2020
+
+**Today's Progress**: I worked on the Customer Support Application.
+
+**Thoughts**: Need to find a way of separating components from the FE Web app and putting that to a different FE on a mobile app. 
+
+**Link(s)**
+
+1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
