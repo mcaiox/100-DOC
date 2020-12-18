@@ -403,7 +403,7 @@
 
 ### Day 39: Thursday December 17, 2020
 
-**Today's Progress**: I worked on a new software engineering [course](https://www.edx.org/course/software-engineering-introduction) from EDX. Also worked on design for future of the Customer Support Application
+**Today's Progress**: I worked on a new software engineering [course](https://www.edx.org/course/software-engineering-introduction) from EDX. Also worked on design for future of the Customer Support Application. Worked on FCC's React course too.
 
 **Thoughts**: Really interesting to see the separation of the whole software development lifecycle. Requirements, Design, Build, Validate, Maintain, Improve and Research.
 
@@ -411,3 +411,4 @@
 
 1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
 2. [Software Engineering: Introduction] (https://www.edx.org/course/software-engineering-introduction)
+3. [REACT-FCC](https://github.com/mcaiox/REACT-FCC)
