@@ -405,7 +405,7 @@
 
 **Today's Progress**: I worked on a new software engineering [course](https://www.edx.org/course/software-engineering-introduction) from EDX. Also worked on design for future of the Customer Support Application
 
-**Thoughts**: Really interesting to see the separation of the whole software development lifecycle. Requirements, Design, Build, Validate,
+**Thoughts**: Really interesting to see the separation of the whole software development lifecycle. Requirements, Design, Build, Validate, Maintain, Improve and Research.
 
 **Link(s)**
 
