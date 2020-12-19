@@ -410,5 +410,15 @@
 **Link(s)**
 
 1. [CustomerSupportApp](https://github.com/mcaiox/CustomerSupportApp)
-2. [Software Engineering: Introduction] (https://www.edx.org/course/software-engineering-introduction)
+2. [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction)
 3. [REACT-FCC](https://github.com/mcaiox/REACT-FCC)
+
+### Day 40: Friday December 18, 2020
+
+**Today's Progress**: I worked on the UBC software engineering [course](https://www.edx.org/course/software-engineering-introduction) from EDX. 
+
+**Thoughts**: Had some initial interaction with TypeScript.
+
+**Link(s)**
+
+1. [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction)
