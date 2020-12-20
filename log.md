@@ -422,3 +422,13 @@
 **Link(s)**
 
 1. [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction)
+
+### Day 41: Saturday December 19, 2020
+
+**Today's Progress**: I worked on the UBC software engineering [course](https://www.edx.org/course/software-engineering-introduction) from EDX. 
+
+**Thoughts**: Worked with the Super Mario project in TypeScript.
+
+**Link(s)**
+
+1. [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction)
