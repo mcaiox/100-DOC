@@ -432,3 +432,13 @@
 **Link(s)**
 
 1. [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction)
+
+### Day 42: Sunday December 20, 2020
+
+**Today's Progress**: I continued work on the UBC software engineering [course](https://www.edx.org/course/software-engineering-introduction) from EDX. 
+
+**Thoughts**: 
+
+**Link(s)**
+
+1. [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction)
