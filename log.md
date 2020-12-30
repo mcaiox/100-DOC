@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log, Round 1
 
 Only managed to do 42 consecutive days, will start again [here](log2.md)
 
