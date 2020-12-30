@@ -4,7 +4,7 @@
 
 * [Rules](rules.md)
 * [R1 Log](log.md)
-* [R2 Log]()
+* [R2 Log](log2.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
