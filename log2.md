@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log, Round 2
 
 ### Day 1: Friday January 1, 2021
 
