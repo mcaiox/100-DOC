@@ -3,7 +3,7 @@
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [R1 Log](log.md) -- Ended on Day 45
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
