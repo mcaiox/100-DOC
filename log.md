@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+### Only managed to do 42 consecutive days, will start again [here](log2.md)
+
 ### Day 1: Monday November 9, 2020
 
 **Today's Progress**: I have setup a Notion system for the 100 days of code and completed seven sections of Section 1 - Front-End Web Development from the course on Udemy : The Complete 2020 Web Development Bootcamp (WDBC). I used a cornell note taking system on Notion to make notes. Topics covered include - Syllabus, How to get the most out of this course, 12 rules to learn to code eBook, How the internet works, how websites actually work and setting up machine for web development.
@@ -395,7 +397,7 @@
 
 **Today's Progress**: I worked on the Customer Support Application.
 
-**Thoughts**: Need to find a way of separating components from the FE Web app and putting that to a different FE on a mobile app. 
+**Thoughts**: Need to find a way of separating components from the FE Web app and putting that to a different FE on a mobile app.
 
 **Link(s)**
 
@@ -415,7 +417,7 @@
 
 ### Day 40: Friday December 18, 2020
 
-**Today's Progress**: I worked on the UBC software engineering [course](https://www.edx.org/course/software-engineering-introduction) from EDX. 
+**Today's Progress**: I worked on the UBC software engineering [course](https://www.edx.org/course/software-engineering-introduction) from EDX.
 
 **Thoughts**: Had some initial interaction with TypeScript.
 
@@ -425,7 +427,7 @@
 
 ### Day 41: Saturday December 19, 2020
 
-**Today's Progress**: I worked on the UBC software engineering [course](https://www.edx.org/course/software-engineering-introduction) from EDX. 
+**Today's Progress**: I worked on the UBC software engineering [course](https://www.edx.org/course/software-engineering-introduction) from EDX.
 
 **Thoughts**: Worked with the Super Mario project in TypeScript.
 
@@ -435,9 +437,9 @@
 
 ### Day 42: Sunday December 20, 2020
 
-**Today's Progress**: I continued work on the UBC software engineering [course](https://www.edx.org/course/software-engineering-introduction) from EDX. 
+**Today's Progress**: I continued work on the UBC software engineering [course](https://www.edx.org/course/software-engineering-introduction) from EDX.
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link(s)**
 
