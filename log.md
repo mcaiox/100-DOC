@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Only managed to do 42 consecutive days, will start again [here](log2.md)
+Only managed to do 42 consecutive days, will start again [here](log2.md)
 
 ### Day 1: Monday November 9, 2020
 
