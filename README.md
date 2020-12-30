@@ -3,7 +3,8 @@
 ## Contents
 
 * [Rules](rules.md)
-* [R1 Log](log.md) -- Ended on Day 45
+* [R1 Log](log.md)
+* [R2 Log]()
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
