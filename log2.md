@@ -9,3 +9,11 @@
 **Link(s)**
 
 1. [BankAccount](https://github.com/mcaiox/csharp-projects/tree/main/BankAccounts)
+
+### Day 2: Saturday January 2, 2021
+
+**Today's Progress**: 
+
+**Thoughts** : 
+**Link(s)**
+
