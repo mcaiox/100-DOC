@@ -12,8 +12,12 @@
 
 ### Day 2: Saturday January 2, 2021
 
-**Today's Progress**: 
+**Today's Progress**: I worked on CSS from the Web Development Bootcamp.
 
-**Thoughts** : 
+**Thoughts** : Intresting to see how styling has changed over the years.
+
 **Link(s)**
+
+1. [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
 
