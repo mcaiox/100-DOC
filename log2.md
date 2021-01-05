@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log, Round 2
 
-### Day 1: Tuesday January 5, 2021
+### Day 1: Wednesday January 6, 2021
 
 **Today's Progress**:
 
