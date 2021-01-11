@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfXChallenge 
+# I've joined the #100DaysOfLearningChallenge 
 
 ## Contents
 
