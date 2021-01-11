@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log, Round 1
 
-Only managed to do 42 consecutive days as I took a break during the winter holiday period. I will start again in the new year and will be logging my progress [here](log2.md)
+Only managed to do 42 consecutive days as I took a break during the winter holiday period. I have started again in the new year and will be logging my progress in for learning in general which will include coding [here](log2.md)
 
 ### Day 1: Monday November 9, 2020
 
