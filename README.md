@@ -1,10 +1,10 @@
-# I've joined the #100DaysOfCode Challenge
+# I've joined the #100DaysOfXChallenge 
 
 ## Contents
 
 * [Rules](rules.md)
-* [R1 Log](log.md)
-* [R2 Log](log2.md)
+* [100 Days of Code Log](log.md)
+* [100 Days of Learning Log](log2.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
