@@ -3,7 +3,6 @@
 ## Contents
 
 * [Rules](rules.md)
-* [100 Days of Learning Log](log2.md)
 * [100 Days of Code Log](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
